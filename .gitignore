@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# Papers
+papers
