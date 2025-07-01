@@ -3,7 +3,8 @@
 AI-powered Reddit moderation prototype with a terminal UI. Automatically reviews posts using LLM agents and provides an interactive interface for human moderators. Uses an event-driven system for real-time agent communication and UI updates (mimicking a Kafka streaming use case).
 
 ## Showcase
-- (WIP)
+
+https://github.com/user-attachments/assets/7b52ae24-9391-4a35-8c94-f8acb607fed7
 
 ## Quick Start
 
